@@ -1,4 +1,14 @@
-### Hi there 👋
+# Yael Greenberg
+## Software Engineer
+
+Holds a software engineer certificate from the Ministry of Education, plus further training with Ultra
+Code and participation in an Embedded Bootcamp at a security company. Demonstrates proficiency
+in logical-mathematical thinking, meets deadlines, has deep analytical ability, understands written
+code, and skillfully modifies it to fit specific requirements. Demonstrates strong motivation and a
+strong desire to excel.
+
+<!-- ### Skills -->
+
 
 <!--
 **MyNameIsYg/MyNameIsYg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
