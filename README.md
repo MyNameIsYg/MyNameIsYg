@@ -8,7 +8,7 @@ code, and skillfully modifies it to fit specific requirements. Demonstrates stro
 strong desire to excel.
 
 ### My Skills 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,c,raspberrypi,cmake,linux,git,github,cs,dotnet,java,js,ts,html,css,react,redux,angular,bootstrap,nodejs,mongodb,sql,visualstudio,vscode,anaconda,idea,postman,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,c,raspberrypi,cmake,linux,git,github,cs,dotnet,java,js,ts,html,css,react,redux,angular,bootstrap,nodejs,mongodb,visualstudio,vscode,anaconda,idea,postman,stackoverflow,ai.pr)](https://skillicons.dev)
 
 
 <!--
