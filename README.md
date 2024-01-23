@@ -21,11 +21,13 @@ strong desire to excel.
 
 
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=compact)
+
 <a href="https://github.com/MyNameIsYg/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsYg&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MyNameIsYg" />
 </a>
 <a href="https://github.com/MyNameIsYg/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsYg&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MyNameIsYg&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
