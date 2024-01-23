@@ -20,16 +20,15 @@ strong desire to excel.
  - For more of my projects, check out my [Repositories](https://github.com/MyNameIsYg?tab=repositories).
 
 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=compact)
-
-<a href="https://github.com/MyNameIsYg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MyNameIsYg" />
-</a>
 <a href="https://github.com/MyNameIsYg/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MyNameIsYg&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://github.com/MyNameIsYg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MyNameIsYg" />
+</a>
 
+
+You can contact me at [yael.greenberg11@gmail.com](yael.greenberg11@gmail.com)
 
 <!--
 **MyNameIsYg/MyNameIsYg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
