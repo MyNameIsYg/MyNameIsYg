@@ -21,7 +21,12 @@ strong desire to excel.
 
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=compact)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNameIsYg&show_icons=true&theme=transparent)
+<a href="https://github.com/MyNameIsYg/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsYg&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/MyNameIsYg/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsYg&repo=convoychat" />
+</a>
 
 
 <!--
