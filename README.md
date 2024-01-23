@@ -21,29 +21,8 @@ strong desire to excel.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=compact)
 
-*   Compact layout
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=compact)
-
-*   Donut Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-*   Donut Vertical Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-*   Pie Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-*   Hidden progress bars
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsYg\&hide_progress=true)
-
-_____________________
 
 <!--
 **MyNameIsYg/MyNameIsYg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
