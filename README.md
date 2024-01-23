@@ -26,7 +26,7 @@ strong desire to excel.
 <a href="https://github.com/MyNameIsYg/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MyNameIsYg" />
 </a>
-
+<br><br><br>
 
 You can contact me at [yael.greenberg11@gmail.com](mailto:yael.greenberg11@gmail.com)
 
