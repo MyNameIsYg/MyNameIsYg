@@ -1,4 +1,4 @@
-### Yael Greenberg
+### **Yael Greenberg**
 ### Software Engineer
 
 #
@@ -12,6 +12,11 @@ strong desire to excel.
 ### My Skills 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,c,raspberrypi,cmake,linux,git,github,cs,dotnet,java,js,ts,html,css,react,redux,angular,bootstrap,nodejs,mongodb,visualstudio,vscode,anaconda,idea,postman,stackoverflow,ai,pr)](https://skillicons.dev)
 
+
+### My Projects
+ - [**Final Project**](https://github.com/maintenance-system) - (Under Development) Remote control system for field personnel during fault handling.
+ - [**Stationery Shop Website**](https://github.com/MyNameIsYg/stationery-shop-website) - Website for sales 
+ - [**Super Mario Game**](https://github.com/MyNameIsYg/SuperMario) - Created a Mario clone using C++ and leveraged object-oriented programming principles. Applied best programming practices and design patterns for maintainable code.
 
 <!--
 **MyNameIsYg/MyNameIsYg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
