@@ -1,5 +1,7 @@
 # Yael Greenberg
-## Software Engineer
+### Software Engineer
+
+#
 
 Holds a software engineer certificate from the Ministry of Education, plus further training with Ultra
 Code and participation in an Embedded Bootcamp at a security company. Demonstrates proficiency
