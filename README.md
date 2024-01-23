@@ -28,7 +28,7 @@ strong desire to excel.
 </a>
 
 
-You can contact me at [yael.greenberg11@gmail.com](yael.greenberg11@gmail.com)
+You can contact me at [yael.greenberg11@gmail.com](mailto:yael.greenberg11@gmail.com)
 
 <!--
 **MyNameIsYg/MyNameIsYg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
