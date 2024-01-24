@@ -1,7 +1,7 @@
-# <span style="font-size:50px;">Yael Greenberg</span></br><p> Software Engineer</p>
+# <h1 style="font-size:50px;"> Yael Greenberg</h1> </br> <p> Software Engineer</p>
 
 
-#
+
 
 Holds a software engineer certificate from the Ministry of Education, plus further training with Ultra
 Code and participation in an Embedded Bootcamp at a security company. Demonstrates proficiency
