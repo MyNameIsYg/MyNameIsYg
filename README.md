@@ -1,5 +1,5 @@
-# **Yael Greenberg**
-### Software Engineer
+<h1> <b> Yael Greenberg**</b> </h1>
+<h3> Software Engineer</h3>
 
 #
 
