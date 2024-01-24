@@ -1,5 +1,5 @@
-<h1> <b> Yael Greenberg**</b> </h1>
-<h3> Software Engineer</h3>
+<p>  <font size="+2"> <b> Yael Greenberg</b> </font> </p>
+<p> Software Engineer</p>
 
 #
 
