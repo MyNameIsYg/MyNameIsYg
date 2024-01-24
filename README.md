@@ -1,4 +1,4 @@
-<p>  <font size="+100"> <b> Yael Greenberg</b> </font> </p>
+ <font size="+100"> <b> Yael Greenberg</b> </font> 
 <p> Software Engineer</p>
 
 #
